@@ -1,3 +1,7 @@
+<div align="right">
+  <img src="https://img.shields.io/badge/version-2-blue" />
+</div>
+
 # chatdb_v2
 This project converts natural language questions into SQL queries using Google's Gemini API, executes them on a MySQL database, and returns the result. It includes:
 
